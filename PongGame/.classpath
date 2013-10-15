@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="libs/gdx-natives.jar"/>
 	<classpathentry kind="lib" path="libs/gdx-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Leonardo/Downloads/tween-engine-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
